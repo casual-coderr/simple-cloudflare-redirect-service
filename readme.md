@@ -2,7 +2,7 @@
 
 + Go to the KV section in cloudflare dashboard create a new KV with some name
 
- ![[Screenshot 2022-08-14 at 5.13.37 PM.png]]
+ ![[./attachments/Screenshot 2022-08-14 at 5.13.37 PM.png]]
 
 + Go to the Workers pane in Cloudflare and click create a service
 
